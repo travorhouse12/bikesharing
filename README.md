@@ -1,3 +1,6 @@
+[link to dashboard](https://public.tableau.com/app/profile/travor.house/viz/NYC_Citibike_Challenge_16417817540860/Tripsbybirthyear?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/travor.house/viz/NYC_Citibike_Challenge_16417817540860/Tripsbybirthyear?publish=yes "link to dashboard")
+
 # Overview
 The goal of this assignment was to persuade investors that a bike-sharing program in Des Moines is a viable business opportunity. One of the key stakeholders would like to see a bike trip analysis to help solidify the proposal so we set out to create just that.
 
